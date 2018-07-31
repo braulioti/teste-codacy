@@ -1,5 +1,5 @@
-teste();
-
 function teste() {
-  console.log('teste');
+  alert('teste');
 }
+
+teste();
